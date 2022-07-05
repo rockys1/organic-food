@@ -12,7 +12,7 @@ body{
     padding: 10px 30px;
     color: aliceblue;
     font-weight: 700;
-    border-radius: 20px;
+    border-radius: 50px;
 }
 .three{
         width: 40%;
@@ -30,10 +30,31 @@ body{
     display: flex;
     margin-bottom: 150px;
 }
-.five{
-    background-image: url(images/shapes/Frame\ 59.jpg);
-    background-repeat: no-repeat;  
+.five1{
+    background-image: url(images/shapes/7.png);
+      
 }
 .six{
     font-size: 46px;
 }
+.three2{
+    width: 50%;
+    padding-left: 8%;
+}
+.three2 img{
+    width: 100%;
+}
+.three3{
+    width: 50%;
+    padding-left: 8%;
+    padding-top: 190px;
+    margin-right: 50px;
+    text-align: justify;
+}
+.two1{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(252, 76, 1), rgb(136, 0, 0));
+    padding: 10px 30px;
+    color: aliceblue;
+    font-weight: 700;
+    border-radius: 50px;
